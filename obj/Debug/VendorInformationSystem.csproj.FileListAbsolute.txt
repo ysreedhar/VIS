@@ -1,0 +1,10 @@
+C:\Sreedhar\Works\VendorInformationSystem\VendorInformationSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Sreedhar\Works\VendorInformationSystem\VendorInformationSystem\obj\Debug\VendorInformationSystem.Properties.Resources.resources
+C:\Sreedhar\Works\VendorInformationSystem\VendorInformationSystem\obj\Debug\VendorInformationSystem.csproj.GenerateResource.Cache
+C:\Sreedhar\Works\VendorInformationSystem\VendorInformationSystem\bin\Debug\VendorInformationSystem.exe.config
+C:\Sreedhar\Works\VendorInformationSystem\VendorInformationSystem\bin\Debug\VendorInformationSystem.exe
+C:\Sreedhar\Works\VendorInformationSystem\VendorInformationSystem\bin\Debug\VendorInformationSystem.pdb
+C:\Sreedhar\Works\VendorInformationSystem\VendorInformationSystem\obj\Debug\VendorInformationSystem.exe
+C:\Sreedhar\Works\VendorInformationSystem\VendorInformationSystem\obj\Debug\VendorInformationSystem.pdb
+C:\Sreedhar\Works\VendorInformationSystem\VendorInformationSystem\obj\Debug\VendorInformationSystem.frmVendor.resources
+C:\Sreedhar\Works\VendorInformationSystem\VendorInformationSystem\obj\Debug\VendorInformationSystem.frmVendorListing.resources
